@@ -1,0 +1,6 @@
+tup1= ("Study","python", 1, 3)
+tup2= ("Python", "Programming")
+tup3= ((1,"Java"), (2, "Python"), (3, "C"))
+print("Size of tuple1: ", tup1.__sizeof__(), "bytes")
+print("Size of tuple2: ", tup2.__sizeof__(), "bytes")
+print("Size of tuple3: ", tup3.__sizeof__(), "bytes")
