@@ -1,3 +1,3 @@
-msg = str(input("enter the string: "))
-n = msg.count("hi")
+msg = str(input("Enter the string: "))
+n = msg.count("Hi")
 print(n)
